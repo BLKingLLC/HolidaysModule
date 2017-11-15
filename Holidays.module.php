@@ -1,4 +1,4 @@
-i<?php
+<?php
 	class Holidays extends CMSModule
 	{
 		const MANAGE_PERM = 'manage_holidays';
